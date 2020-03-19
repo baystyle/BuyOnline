@@ -40,7 +40,6 @@
    ![alt text](https://i.postimg.cc/gcqZv7QB/9.png)
    ![alt text](https://i.postimg.cc/brKWYJP3/10.png)
    ![alt text](https://i.postimg.cc/TPztWsF3/11.png)
-   ![alt text](https://i.postimg.cc/8kKrKvkh/12.png)
    
    2 หน้าหลังจาก login สำเร็จ
    ![alt text](https://i.postimg.cc/wTjnzCdC/13.png)
