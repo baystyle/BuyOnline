@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "981374348120",
+    "firebase_url": "https://realtimedatabse-4ee6d.firebaseio.com",
+    "project_id": "realtimedatabse-4ee6d",
+    "storage_bucket": "realtimedatabse-4ee6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981374348120:android:d85e915ade2593fe36532d",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981374348120-uc7npb79ppctopl12fejdn99ak3lq6tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myproject",
+            "certificate_hash": "bbcb69251e7e8c4c6249e17a379a576c7bbc35d8"
+          }
+        },
+        {
+          "client_id": "981374348120-92c0vplulgbkp0ghoh2t9s1cm822jh0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myproject",
+            "certificate_hash": "7d5ac0656184dcb82455c0b81ea7332a1f7ba610"
+          }
+        },
+        {
+          "client_id": "981374348120-nigvqejulpfuaba4qum6o59kr7d58452.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMSinwkU_ljgnrJ8yzWcxGtT85R8VaEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981374348120-nigvqejulpfuaba4qum6o59kr7d58452.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981374348120:android:9aca9b471d83fc8436532d",
+        "android_client_info": {
+          "package_name": "com.example.realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981374348120-9vk3mno1co5tm3ee9hpn4g3tbkcjdhag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtime",
+            "certificate_hash": "7d5ac0656184dcb82455c0b81ea7332a1f7ba610"
+          }
+        },
+        {
+          "client_id": "981374348120-nigvqejulpfuaba4qum6o59kr7d58452.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMSinwkU_ljgnrJ8yzWcxGtT85R8VaEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981374348120-nigvqejulpfuaba4qum6o59kr7d58452.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981374348120:android:d1c9670fce76c2bd36532d",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981374348120-b3n1uno7gmj3f4mpifpo70tpblvqtu6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedatabse",
+            "certificate_hash": "7d5ac0656184dcb82455c0b81ea7332a1f7ba610"
+          }
+        },
+        {
+          "client_id": "981374348120-j9qaonkf0eutdv78a4ajkdt274shug7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimedatabse",
+            "certificate_hash": "ee272718d0e3beb5b7b71dfcf9052a8f8d33d614"
+          }
+        },
+        {
+          "client_id": "981374348120-nigvqejulpfuaba4qum6o59kr7d58452.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMSinwkU_ljgnrJ8yzWcxGtT85R8VaEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981374348120-nigvqejulpfuaba4qum6o59kr7d58452.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
